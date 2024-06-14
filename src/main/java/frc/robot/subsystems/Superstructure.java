@@ -3,7 +3,6 @@ package frc.robot.subsystems;
 import static frc.robot.constants.Constants.Elevator.*;
 import static frc.robot.constants.Constants.Pivot.*;
 
-import edu.wpi.first.math.geometry.Pose2d;
 import edu.wpi.first.math.geometry.Rotation2d;
 import edu.wpi.first.math.util.Units;
 import edu.wpi.first.wpilibj.DriverStation.Alliance;
